@@ -1,10 +1,15 @@
-# Hi there, I'm Achmad Fachri Hidayat 👋
+<h1 align="center">Hi there, I'm Achmad Fachri Hidayat 👋</h1>
 
-![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vcenter=true&width=500&lines=Hi+there!+I'm+Achmad+Fachri+Hidayat;Software+Engineering+Student;Android+%26+Backend+Developer)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vcenter=true&width=500&lines=Hi+there!+I'm+Achmad+Fachri+Hidayat;Software+Engineering+Student;Android+%26+Backend+Developer" alt="Typing SVG" />
+</p>
 
-Student at **SMK Negeri 24 Jakarta** majoring in **Software Engineering (RPL)**.  
-Passionate about Android Development, Laravel, Java Spring Boot, and RESTful APIs.
+<p align="center">
+  Student at <b>SMK Negeri 24 Jakarta</b> majoring in <b>Software Engineering (RPL)</b>.<br>
+  Passionate about Android Development, Laravel, Java Spring Boot, and RESTful APIs.
+</p>
 
+---
 ---
 
 ### 🛠️ Tech Stack & Tools
