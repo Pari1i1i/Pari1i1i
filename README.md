@@ -35,11 +35,11 @@ Passionate about Android Development, Laravel, Java Spring Boot, and RESTful API
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-![](https://github-readme-stats.vercel.app/api?username=Pari1i1i&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://komarev.com/ghpvc/?username=Pari1i1i&color=61AFEF&style=flat-square&label=Profile+Views)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pari1i1i&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Pari1i1i&theme=tokyo-night&hide_border=true)
 
 ---
 
