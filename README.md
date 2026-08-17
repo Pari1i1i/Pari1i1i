@@ -6,7 +6,7 @@
 
 <p align="center">
   Student at <b>SMK Negeri 24 Jakarta</b> majoring in <b>Software Engineering (RPL)</b>.<br>
-  Passionate about Android Development, Laravel, Java Spring Boot, and RESTful APIs.
+  Passionate about Android Development, .NET, Java Spring Boot, and RESTful APIs.
 </p>
 
 ---
