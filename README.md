@@ -33,20 +33,5 @@
 
 ---
 
-### 🚀 What I'm Up To
-- 🔭 **Current Focus:** Building Android apps & web applications with **Laravel (PHP + Blade)** and **Java Spring Boot**.
-- 🎓 **Learning:** Advanced backend architectures, database management, and modern API development.
-- 💡 **Interests:** Mobile App Development, Web Development, and Backend Systems.
-
----
-
-### 📊 GitHub Activity
-
-![](https://komarev.com/ghpvc/?username=Pari1i1i&color=61AFEF&style=flat-square&label=Profile+Views)
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Pari1i1i&theme=tokyo-night&hide_border=true)
-
----
-
 ### 📫 Connect with Me
 - **LinkedIn:** [Achmad Fachri Hidayat](https://www.linkedin.com/in/fachriii/)
